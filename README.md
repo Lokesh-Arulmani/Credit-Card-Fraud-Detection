@@ -17,7 +17,7 @@ Due to the large size of the dataset, the actual data file is not included in th
 3. The notebook includes data manipulation, processing, visualization, model building, evaluation, and improvement steps.
 
 ## Resources
-- Dataset: [Dataset Link.docx](./Files/Dataset%20Link.docx)
+- Dataset: [Dataset Link.docx]
 - Python Libraries: matplotlib, seaborn, pandas, numpy, scikit-learn
 
 ## License
