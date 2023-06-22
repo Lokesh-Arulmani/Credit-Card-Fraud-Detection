@@ -3,7 +3,7 @@
 This project focuses on detecting credit card fraud using the logistic regression algorithm in Jupyter Notebook. The objective is to develop an accurate model that can classify credit card transactions as fraudulent or legitimate. 
 
 ## Dataset
-Due to the large size of the dataset, the actual data file is not included in this repository. Instead, a Word file named "Dataset Link.docx" is provided in the "Files" section. This Word file contains the link to download the dataset. Please download the dataset from the provided link and place it in the project directory before running the code.
+Due to the large size of the dataset, the actual data file is not included in this repository. Instead, a Word file named "Dataset Link.docx" is provided. This Word file contains the link to download the dataset. Please download the dataset from the provided link and place it in the project directory before running the code.
 
 ## Installation
 1. Clone this repository to your local machine.
